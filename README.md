@@ -10,7 +10,7 @@
 
 ---------------------------------
 
-### 🖥️ Technologies & tools I'm studying:
+### Technologies & tools I'm studying:
 
 [![My Skills](https://skillicons.dev/icons?i=js,php,mysql,c,cpp,py,java,react)](https://skillicons.dev)
 
