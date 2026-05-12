@@ -5,8 +5,7 @@
 
 ---------------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjahnm&show_icons=true&theme=dark&card_width=500)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjahnm&show_icons=true&theme=dark&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://streak-stats.demolab.com?user=fjahnm&theme=dark&hide_border=true" alt="fjahnm's GitHub Stats" />
 
 ---------------------------------
 
