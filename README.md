@@ -9,6 +9,11 @@
 
 ---------------------------------
 
+![Metrics](https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg)
+
+
+---------------------------------
+
 ### Technologies & tools I'm studying:
 
 [![My Skills](https://skillicons.dev/icons?i=js,php,mysql,c,cpp,py,java,react)](https://skillicons.dev)
