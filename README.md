@@ -35,8 +35,6 @@ The system includes authentication, administrative dashboards, company managemen
 - PM2
 - REST APIs
 
-**Status:** In development / initial production
-
 ---
 
 ### Expense Reporting System
@@ -64,8 +62,6 @@ The system goes beyond simple reimbursement registration by connecting projects,
 - REST APIs
 - JWT Authentication
 - Docker
-
-**Status:** In development / enterprise structure phase
 
 ## Technologies
 
