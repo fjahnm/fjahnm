@@ -12,28 +12,29 @@ I have prior experience in technical support, networking, infrastructure, comput
 
 ### API Hub Anexar
 
-A multi-company integration platform designed to centralize external integrations, manage company-specific tokens, control access profiles, and provide logs and auditing for integration processes.
+Multi-company integration platform designed to centralize external integrations, manage company-specific tokens, control access profiles, configure ERP connections, and provide logs and auditing for integration processes.
 
-The system includes authentication, administrative dashboards, company management, integration management, and runtime execution monitoring.
+The system includes authentication, administrative dashboards, company management, user management, integration management, native endpoints, company tokens, ERP connection settings, and runtime execution monitoring.
 
 **Main features:**
+
 - JWT authentication
-- User access profiles
-- Company management
-- Integration management
-- Logs and auditing
+- Role-based access control
 - Multi-company structure
+- Company and user management
+- Company-specific tokens
+- ERP connection configuration
+- Native integration endpoints
+- Logs and execution history
 - Cloud deployment
 
 **Technologies:**
-- React
-- Node.js
-- Express
-- PostgreSQL
-- Docker
-- JWT
-- PM2
-- REST APIs
+
+React · Node.js · Express · PostgreSQL · Docker · JWT · PM2 · REST APIs
+
+**Status:** In development / initial production phase
+
+**Repository:** [API Hub Anexar Showcase](https://github.com/fjahnm/api-hub-anexar)
 
 ---
 
