@@ -8,6 +8,8 @@ I am currently studying Systems Analysis and Development and developing projects
 
 I have prior experience in technical support, networking, infrastructure, computer maintenance, and user support. This background helps me understand both the technical side of a solution and the real needs of users and clients.
 
+---
+
 ## Key Projects
 
 ### API Hub Anexar
@@ -32,7 +34,7 @@ The system includes authentication, administrative dashboards, company managemen
 
 React · Node.js · Express · PostgreSQL · Docker · JWT · PM2 · REST APIs
 
-**Repository:** [API Hub Anexar Showcase](https://github.com/fjahnm/api-hub-anexar)
+**Repository:** [API Hub Anexar](https://github.com/fjahnm/api-hub-anexar)
 
 ---
 
@@ -43,6 +45,7 @@ Enterprise expense management platform designed to integrate employees, managers
 The system goes beyond simple reimbursement registration by connecting projects, tasks, and expenses within a centralized environment, enabling granular approval control, full traceability, financial governance, and strategic reporting for decision-making.
 
 **Main features:**
+
 - Expense reporting and receipt attachment
 - Multi-level approval workflow
 - Partial approvals and expense adjustments
@@ -53,18 +56,28 @@ The system goes beyond simple reimbursement registration by connecting projects,
 - Project and task integration
 
 **Technologies:**
-- Flutter
-- Java
-- Spring Boot
-- JPA / Hibernate
-- PostgreSQL
-- REST APIs
-- JWT Authentication
-- Docker
+
+Flutter · Java · Spring Boot · JPA / Hibernate · PostgreSQL · REST APIs · JWT Authentication · Docker
+
+**Repository:** [Expense Reporting System](https://github.com/fjahnm/expense-reporting-system-showcase)
+
+---
 
 ## Technologies
 
-React · JavaScript · Node.js · Express · PostgreSQL · Docker · Git · GitHub · REST APIs · JWT · Java · Spring Boot · Flutter
+### Frontend
+
+React · JavaScript · Flutter
+
+### Backend
+
+Node.js · Express · Java · Spring Boot · REST APIs · JWT
+
+### Database and Infrastructure
+
+PostgreSQL · Docker · PM2 · Git · GitHub
+
+---
 
 ## GitHub Stats
 
@@ -72,9 +85,11 @@ React · JavaScript · Node.js · Express · PostgreSQL · Docker · Git · GitH
 
 ![Metrics](./assets/metrics.svg)
 
+---
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-macedo-54273b26a/)
 
 **Email:** felipejmacedo3@gmail.com  
-**GitHub:** https://github.com/fjahnm
+**GitHub:** [github.com/fjahnm](https://github.com/fjahnm)
