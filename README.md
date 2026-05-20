@@ -32,8 +32,6 @@ The system includes authentication, administrative dashboards, company managemen
 
 React · Node.js · Express · PostgreSQL · Docker · JWT · PM2 · REST APIs
 
-**Status:** In development / initial production phase
-
 **Repository:** [API Hub Anexar Showcase](https://github.com/fjahnm/api-hub-anexar)
 
 ---
