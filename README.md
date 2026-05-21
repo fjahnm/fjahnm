@@ -81,8 +81,6 @@ PostgreSQL · Docker · PM2 · Git · GitHub
 
 ## GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=fjahnm&theme=dark&hide_border=true" alt="fjahnm's GitHub Stats" />
-
 ![Metrics](./assets/metrics.svg)
 
 ---
